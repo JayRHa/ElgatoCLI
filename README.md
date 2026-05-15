@@ -20,7 +20,7 @@ Build. Automate. Share.
 
 ## What is this?
 
-This repository provides cLI tool for controlling Elgato devices from the terminal.
+CLI tool for controlling Elgato devices from the terminal.
 
 > Browse the documentation below for setup notes, usage details, and project-specific context.
 
