@@ -12,6 +12,15 @@ Build. Automate. Share.
 [![GitHub issues](https://img.shields.io/github/issues/JayRHa/ElgatoCLI?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/ElgatoCLI/issues)
 [![Contributors](https://img.shields.io/github/contributors/JayRHa/ElgatoCLI?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/ElgatoCLI/graphs/contributors)
 
+<h1>Elgato CLI</h1>
+  <p><strong>Fast local control for Elgato lights with operator-friendly output and clean JSON.</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/python-3.11%2B-2d7ff9?style=for-the-badge" alt="Python 3.11+">
+    <img src="https://img.shields.io/badge/interface-CLI-0f172a?style=for-the-badge" alt="CLI">
+    <img src="https://img.shields.io/badge/output-text%20%7C%20json-0ea5e9?style=for-the-badge" alt="Text and JSON output">
+    <img src="https://img.shields.io/badge/automation-ready-16a34a?style=for-the-badge" alt="Automation ready">
+  </p>
+
 ---
 
 `CLI Tool` | `Python` | `Public` | `Maintained`
@@ -51,26 +60,10 @@ flowchart LR
    git clone https://github.com/JayRHa/ElgatoCLI.git
    ```
 
-3. Continue with the project-specific documentation in the next section.
+3. Continue with the setup, usage, or workflow sections below.
 
 ---
 <!-- unified-readme:end -->
-
-<!-- project-documentation:start -->
-## Project Documentation
-
-The sections below contain the repository-specific setup, usage, and reference material for this project.
-
-<div align="center">
-  <h1>Elgato CLI</h1>
-  <p><strong>Fast local control for Elgato lights with operator-friendly output and clean JSON.</strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/python-3.11%2B-2d7ff9?style=for-the-badge" alt="Python 3.11+">
-    <img src="https://img.shields.io/badge/interface-CLI-0f172a?style=for-the-badge" alt="CLI">
-    <img src="https://img.shields.io/badge/output-text%20%7C%20json-0ea5e9?style=for-the-badge" alt="Text and JSON output">
-    <img src="https://img.shields.io/badge/automation-ready-16a34a?style=for-the-badge" alt="Automation ready">
-  </p>
-</div>
 
 ## Overview
 
