@@ -1,3 +1,18 @@
+<!-- repo-standard:start -->
+# Elgato CLI
+
+CLI tool for controlling Elgato devices from the terminal.
+
+| Area | Stack | Visibility |
+| --- | --- | --- |
+| CLI Tooling | Python | Public |
+
+**Repository:** `JayRHa/elgato-cli`  
+**Topics:** `elgato`, `cli`, `python`, `streaming`, `smart-home`
+<!-- repo-standard:end -->
+
+---
+
 <div align="center">
   <h1>Elgato CLI</h1>
   <p><strong>Fast local control for Elgato lights with operator-friendly output and clean JSON.</strong></p>
